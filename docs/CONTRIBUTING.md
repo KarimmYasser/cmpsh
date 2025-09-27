@@ -1,9 +1,3 @@
----
-noteId: "e30fe2919bcf11f0aea711b912eba21a"
-tags: []
-
----
-
 # Contributing to cmpsh
 
 Thank you for your interest in contributing to cmpsh! This document provides guidelines for contributing to the project.
