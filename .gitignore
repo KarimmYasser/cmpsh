@@ -1,0 +1,174 @@
+# Prerequisites
+*.d
+
+# Object files
+*.o
+*.ko
+*.obj
+*.elf
+
+# Linker output
+*.ilk
+*.map
+*.exp
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Libraries
+*.lib
+*.a
+*.la
+*.lo
+
+# Shared objects (inc. Windows DLLs)
+*.dll
+*.so
+*.so.*
+*.dylib
+
+# Executables
+*.exe
+*.out
+*.app
+*.i*86
+*.x86_64
+*.hex
+
+# Debug files
+*.dSYM/
+*.su
+*.idb
+*.pdb
+core
+core.*
+vgcore.*
+
+# Kernel Module Compile Results
+*.mod*
+*.cmd
+.tmp_versions/
+modules.order
+Module.symvers
+Mkfile.old
+dkms.conf
+
+# Test artifacts
+test_temp/
+*.test
+test_output.txt
+error.txt
+output.txt
+
+# Temporary files
+*.tmp
+*.temp
+*~
+.*.swp
+.*.swo
+
+
+# Demo artifacts
+demo_*.sh
+file_listing.txt
+demo_output.txt
+backup_*.txt
+*_manifest.txt
+
+# Custom test files (keep example tests)
+test_scripts/temp_*
+test_scripts/custom_*
+
+# Build directory and artifacts
+build/
+*.o
+*.a
+*.so
+*.exe
+*.out
+cmpsh
+
+# Distribution packages
+*.tar.gz
+*.zip
+dist/
+cmpsh-*.tar.gz
+
+# Backup files
+*.backup
+*.bak
+*.orig
+Makefile.backup
+
+# Log files
+*.log
+valgrind.log
+analysis.log
+
+# Coverage files
+*.gcov
+*.gcda
+*.gcno
+coverage/
+
+# Static analysis reports
+cppcheck.xml
+scan-build-*/
+
+# Performance profiling
+gmon.out
+callgrind.out.*
+
+# Documentation build artifacts
+docs/build/
+docs/_site/
+*.html
+*.pdf
+
+# Development environment
+.env
+.env.local
+.venv/
+env/
+venv/
+
+# Package manager files
+node_modules/
+package-lock.json
+yarn.lock
+
+# IDE and editor specific
+*.swp
+*.swo
+*~
+.project
+.cproject
+.settings/
+.metadata/
+.idea/
+.vscode/
+*.sublime-*
+.atom/
+
+# System files
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# Container files
+.dockerignore
+
+# CI/CD
+.github/workflows/
+
+# Personal notes and scratch files
+notes.md
+scratch.*
+TODO.md
+NOTES.md
