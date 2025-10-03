@@ -1,5 +1,7 @@
 # cmpsh - Custom Shell Implementation
 
+![Cmpsh Cover](cmpsh.png)
+
 [![Build Status](https://img.shields.io/badge/build-passing-brightgreen)](https://github.com/your-username/cmpsh)
 [![Language](https://img.shields.io/badge/language-C-blue)](<https://en.wikipedia.org/wiki/C_(programming_language)>)
 [![License](https://img.shields.io/badge/license-MIT-green)](./LICENSE)
